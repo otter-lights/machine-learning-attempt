@@ -1,14 +1,9 @@
 This repo is a culmulation of information from a variety of sources in my machine learning exploration. 
 
-The data is originally from the open data available through Unicef (https://data.unicef.org/resources/dataset/), I spent a
-large portion of the time devoted to this project, sorting through the data (as explained in my summary).
+The data is originally from the open data available through Unicef (https://data.unicef.org/resources/dataset/), I spent a large portion of the time devoted to this project, sorting through the data (as explained in my summary).
 
-The scrubbed and modified data will be attached in this repo for others to use, I got rid of all data not related to infant mortality rate
-and changed it from organization by country, to organization by geographical area.
+The scrubbed and modified data will be attached in this repo for others to use, I got rid of all data not related to infant mortality rate and changed it from organization by country, to organization by geographical area.
 
-Additionally, a lot of the information, ideas, etc. for this project came from a presentation by Susan Ibach (hockeygeekgirl on Github)
-and her intro to machine learning repo.
+Additionally, a lot of the information, ideas, etc. for this project came from a presentation by Susan Ibach (hockeygeekgirl on Github) and her intro to machine learning repo.
 
-Finally, I am just a high school student, and this project did not turn out as I had hoped in terms of actually predicting anything,
-the margins of errors are very large and should not be used as an accurate predictor. Despite this, it was a valuable learning opportuiny 
-which is why I am publishing it. 
+Finally, I am just a high school student, and this project did not turn out as I had hoped in terms of actually predicting anything, the margins of errors are very large and should not be used as an accurate predictor. Despite this, it was a valuable learning opportuiny which is why I am publishing it. 
